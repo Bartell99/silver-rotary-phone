@@ -1,9 +1,9 @@
 ---
-name: Feature request
+name: Report
 about: Suggest an idea for this project
-title: ''
-labels: ''
-assignees: ''
+title: "(Bug)"
+labels: good first issue
+assignees: Bartell99
 
 ---
 
